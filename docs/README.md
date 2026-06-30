@@ -46,4 +46,19 @@ OctoAcme follows a full-lifecycle model across five phases:
 
 ---
 
-*For deeper detail, see the other documents in this `docs/` folder.*
+## How to Use This Docs Folder
+
+This folder is the single source of truth for OctoAcme's project management processes. Use it to onboard new team members, refresh your understanding of a phase, or share context with Copilot Spaces.
+
+| Document | What it covers |
+|----------|---------------|
+| [octoacme-project-management-overview.md](./octoacme-project-management-overview.md) | High-level principles, core roles, key artifacts, and communication cadence — the best starting point. |
+| [octoacme-project-initiation.md](./octoacme-project-initiation.md) | How to validate and authorize new work: one-pager template, stakeholder alignment, and the go/no-go decision gate. |
+| [octoacme-project-planning.md](./octoacme-project-planning.md) | Turning an approved initiative into an actionable backlog: kickoff, prioritization, estimation, Definition of Done, and release planning. |
+| [octoacme-execution-and-tracking.md](./octoacme-execution-and-tracking.md) | Day-to-day delivery rhythm: board workflow, PR conventions, quality and testing expectations, metrics, and blocker escalation. |
+| [octoacme-release-and-deployment.md](./octoacme-release-and-deployment.md) | Pre-release checklist, deployment steps, post-release verification, and the rollback/incident playbook. |
+| [octoacme-retrospective-and-continuous-improvement.md](./octoacme-retrospective-and-continuous-improvement.md) | Retrospective structure, action-item tracking, and how OctoAcme builds a continuous-improvement culture. |
+| [octoacme-risks-and-communication.md](./octoacme-risks-and-communication.md) | Risk register format, risk lifecycle, stakeholder communication templates, and escalation paths. |
+| [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md) | Detailed responsibilities, goals, and communication patterns for each team role. |
+
+> **Tip:** Keep this folder updated as processes evolve. If you're using Copilot Spaces, add these docs as context sources so the team can ask questions and get role-specific guidance directly from the knowledge base.
